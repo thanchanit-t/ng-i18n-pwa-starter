@@ -1,0 +1,15 @@
+{
+  "common": {
+    "appName": "แอปพลิเคชันของฉัน",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก"
+  },
+  "homePage": {
+    "title": "หน้าหลัก",
+    "welcomeMessage": "ยินดีต้อนรับสู่แอปพลิเคชัน"
+  },
+  "aboutPage": {
+    "title": "เกี่ยวกับเรา",
+    "description": "นี่คือโปรเจคตัวอย่าง Angular i18n"
+  }
+}
